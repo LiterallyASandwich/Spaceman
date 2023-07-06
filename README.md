@@ -3,8 +3,8 @@
 
 # Screenshot
 
-<img src="url to your image on imgur">
-<img src="url to your image on imgur">
+<img src="https://cdn.discordapp.com/attachments/691762403742056479/1126575443307397171/Screenshot_1994.png">
+<img src="https://cdn.discordapp.com/attachments/691762403742056479/1126575443605205002/Screenshot_1995.png">
 
 # Technologies Used
 
@@ -15,8 +15,9 @@
 
 # Getting Started
 
-[Click to View Project Planning](your Trello url here)
-[Click to Play Connect Four!](your deployment url here)
+[Click to View Project Planning](https://drive.google.com/file/d/1PqiB8Xym4-1td5ZQTOznTKDyQnOsFsom/view?usp=sharing)
+
+[Click to Play Spaceman!](http://127.0.0.1:5500/Spaceman/)
 
 # Next Steps
 
