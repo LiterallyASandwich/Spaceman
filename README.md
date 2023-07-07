@@ -22,4 +22,7 @@
 # Next Steps
 
 - Future enhancement one...
+  Making the "UFO" and "Pete" more detailed: Adding circles to the UFO to emulate windows similar to how simplistic flying saucers appear as; and giving Pete sunglasses, or simply replacing his circular representation with a stock image of a random, smiling man.
+  
 - Future enhancement two... 
+Possible implications of adding more words to solve.
