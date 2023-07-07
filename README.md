@@ -1,5 +1,5 @@
 # Spaceman
- The classic game of hangman, without the hanging
+ The classic game of hangman, but without the hanging! Help Pete "Spaceman" Williams prevent an alien abduction by use of the greatest weapon ever built by humanity: the pure audacity of the English language. But be careful, Pete's right in the tractor beam, and if he ever wishes to see his family again, you got to say the right word. Good luck.
 
 # Screenshot
 
