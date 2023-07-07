@@ -17,7 +17,7 @@
 
 [Click to View Project Planning](https://drive.google.com/file/d/1PqiB8Xym4-1td5ZQTOznTKDyQnOsFsom/view?usp=sharing)
 
-[Click to Play Spaceman!](http://127.0.0.1:5500/Spaceman/)
+[Click to Play Spaceman!](https://literallyasandwich.github.io/Spaceman/)
 
 # Next Steps
 
